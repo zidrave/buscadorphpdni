@@ -4,3 +4,6 @@ para q pueda ser inyectado con dumpeo.php
 
 la url para descargar el zip es:
 https://www.sunat.gob.pe/descargaPRR/mrc137_padron_reducido.html
+
+
+el buscar.php es simple por q esta hecho para ser usado por mi bot de discord tambien agregare una muestra de mi bot de discord que es codigo en python
