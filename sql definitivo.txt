@@ -1,0 +1,20 @@
+CREATE TABLE `importacion` (
+  `id` int(15) NOT NULL AUTO_INCREMENT,
+  `ruc` varchar(15) DEFAULT NULL,
+  `Nombre_rs` varchar(45) DEFAULT NULL,
+  `Estado_contribuyente` varchar(25) DEFAULT NULL,
+  `Condicion_casa` varchar(45) DEFAULT NULL,
+  `ubigeo` varchar(25) DEFAULT NULL,
+  `tipo_de_via` varchar(25) DEFAULT NULL,
+  `Nombre_de_via` varchar(25) DEFAULT NULL,
+  `Codigo_de_zona` varchar(25) DEFAULT NULL,
+  `Tipo_de_zona` varchar(25) DEFAULT NULL,
+  `Numero` varchar(25) DEFAULT NULL,
+  `Interior` varchar(25) DEFAULT NULL,
+  `Lote` varchar(25) DEFAULT NULL,
+  `Departamento` varchar(25) DEFAULT NULL,
+  `Manzana` varchar(25) DEFAULT NULL,
+  `Km` varchar(25) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+--

@@ -1,0 +1,6 @@
+el archivo original es un zip q descomprimi y al que tuve que borrarle la primera linea con el notepad++
+
+para q pueda ser inyectado con dumpeo.php
+
+la url para descargar el zip es:
+https://www.sunat.gob.pe/descargaPRR/mrc137_padron_reducido.html
