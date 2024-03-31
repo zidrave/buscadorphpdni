@@ -108,4 +108,4 @@ async def ping(interaction : Interaction):
 	bot_latency = round(client.latency*1000)
 	await interaction.response.send_message(f"pong! .... {bot_latency}ms")
 
-bot.run("MTIyMDUzNzI5MzM4Nzg2MjExNg.Gjvt9c.FfLhwgGqKc_O91ROy_NcHOPrD8E4yhH7-yWLG8")
+bot.run("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx--crea-tu-token-----xxxxxxxxxxx")
