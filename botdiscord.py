@@ -29,7 +29,7 @@ async def oe(ctx):
 
 @bot.command()
 async def buscar(ctx, *, nombre: str):
-    url = f"http://the.zidrave.net/reniec/buscar.php?busqueda={nombre.replace(' ', '+')}"
+    url = f"http://xxxx.zidrave.net/reniec/buscar.php?busqueda={nombre.replace(' ', '+')}"
     response = requests.get(url)
     if response.status_code == 200:
         soup = BeautifulSoup(response.content, "html.parser")
